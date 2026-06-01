@@ -197,50 +197,7 @@ const shashank = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=shashank12-collab&color=blue)
 
-</div>
+</div>s
+---cs
 
-# 🔥 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shashank12-collab/shashank12-collab/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 📊 GitHub Contribution Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shashank12-collab&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank12-collab&theme=tokyonight" height="180em"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-[![Shashank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shashank12-collab&theme=tokyo-night&hide_border=true)](https://github.com/shashank12-collab)
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=shashank12-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
----
-
-# ⚡ Contribution Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashank12-collab&theme=tokyonight"/>
-
-</div>
